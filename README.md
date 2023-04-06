@@ -6,3 +6,7 @@ This example shows how to use the Azure Speech cognitive service to translate sp
 La descripción completa del proyecto se puede ven en el siguiente post:
 [Azure Cognitive Services | Conversión de voz a texto y análisis de sentimientos](https://acelera.tech/2021/11/03/azure-cognitive-services-conversion-de-voz-a-texto-y-analisis-de-sentimientos/)
 
+## Recursos adicionales
+- [Cómo extraer datos de un PDF utilizando Azure Form Recognizer + Python + Azure Functions](https://www.youtube.com/watch?v=ONG5yB7fKlE&t=2113s)
+- [Oportunidades de Negocio con Inteligencia Artificial](https://www.youtube.com/watch?v=UM-ZpLd8iz4)
+
